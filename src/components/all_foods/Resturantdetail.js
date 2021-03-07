@@ -124,7 +124,7 @@ export default function Resturantdetail() {
       <img className={root_img} src="./252.png"></img>
       <div>
         <Typography className={resturant_name} variant="h2" component="h1">
-          Theomeals restaurant
+        Tibebmeals restaurant
         </Typography>
         <Typography className={resturant_description} component="p">
           nigerian &nbsp; ghanian &nbsp; south-african &nbsp; delicacies

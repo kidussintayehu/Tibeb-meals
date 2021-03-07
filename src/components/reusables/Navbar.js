@@ -206,7 +206,7 @@ export default function Navbar() {
       }}
       className={logo}
     >
-      Theomeals
+      Tibebmeals
     </Link>
   );
 
