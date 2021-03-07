@@ -132,11 +132,11 @@ export default function Resturantdetail() {
         <div className={location_container}>
           <LocationOnOutlinedIcon className={location_icon} />
           <Typography className={resturant_location} component="p">
-            Moremi Hall, Tafawa Balewa Way, University Of Lagos
+            Addis Ababa, Ethiopia
           </Typography>
         </div>
         <Typography className={opening_time} component="p">
-          RESTAURANT TIMING - 12:00 AM TO 11:30 PM
+          RESTAURANT TIMING - 6:00 AM TO 6:30 PM
         </Typography>
 
         <div className={dpa_section}>
