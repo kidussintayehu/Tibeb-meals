@@ -35,7 +35,7 @@ const useStyles = makeStyles((theme) => ({
 export default function NotFound({
   animationData = notfound,
   text = 'Go Home',
-  path = '/',
+  path = '/Tibeb-meals',
 }) {
   const { root, root2 } = useStyles(location);
   const defaultOptions = {
