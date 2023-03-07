@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Tibeb-meals/static/css/main.3a069e0e.chunk.css",
-    "main.js": "/Tibeb-meals/static/js/main.68c6ee57.chunk.js",
-    "main.js.map": "/Tibeb-meals/static/js/main.68c6ee57.chunk.js.map",
+    "main.js": "/Tibeb-meals/static/js/main.dbc29a5b.chunk.js",
+    "main.js.map": "/Tibeb-meals/static/js/main.dbc29a5b.chunk.js.map",
     "runtime-main.js": "/Tibeb-meals/static/js/runtime-main.456bbb3a.js",
     "runtime-main.js.map": "/Tibeb-meals/static/js/runtime-main.456bbb3a.js.map",
     "static/css/2.591db2b6.chunk.css": "/Tibeb-meals/static/css/2.591db2b6.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.591db2b6.chunk.css",
     "static/js/2.bc79aecf.chunk.js",
     "static/css/main.3a069e0e.chunk.css",
-    "static/js/main.68c6ee57.chunk.js"
+    "static/js/main.dbc29a5b.chunk.js"
   ]
 }
