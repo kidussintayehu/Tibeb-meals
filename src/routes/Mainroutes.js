@@ -12,7 +12,7 @@ import NotFound from '../pages/NotFound';
 
 const AuthenticationRoutes = (isLoggedIn) => [
   {
-    path: '/Tibeb-meals',
+    path: '/tibeb_meals',
     element: <Home />,
   },
   {
