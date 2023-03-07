@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Tibeb-meals/static/css/main.3a069e0e.chunk.css",
+    "main.js": "/Tibeb-meals/static/js/main.68c6ee57.chunk.js",
+    "main.js.map": "/Tibeb-meals/static/js/main.68c6ee57.chunk.js.map",
+    "runtime-main.js": "/Tibeb-meals/static/js/runtime-main.456bbb3a.js",
+    "runtime-main.js.map": "/Tibeb-meals/static/js/runtime-main.456bbb3a.js.map",
+    "static/css/2.591db2b6.chunk.css": "/Tibeb-meals/static/css/2.591db2b6.chunk.css",
+    "static/js/2.bc79aecf.chunk.js": "/Tibeb-meals/static/js/2.bc79aecf.chunk.js",
+    "static/js/2.bc79aecf.chunk.js.map": "/Tibeb-meals/static/js/2.bc79aecf.chunk.js.map",
+    "index.html": "/Tibeb-meals/index.html",
+    "static/css/2.591db2b6.chunk.css.map": "/Tibeb-meals/static/css/2.591db2b6.chunk.css.map",
+    "static/css/main.3a069e0e.chunk.css.map": "/Tibeb-meals/static/css/main.3a069e0e.chunk.css.map",
+    "static/js/2.bc79aecf.chunk.js.LICENSE.txt": "/Tibeb-meals/static/js/2.bc79aecf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.456bbb3a.js",
+    "static/css/2.591db2b6.chunk.css",
+    "static/js/2.bc79aecf.chunk.js",
+    "static/css/main.3a069e0e.chunk.css",
+    "static/js/main.68c6ee57.chunk.js"
+  ]
+}
